@@ -3,5 +3,5 @@
 
  Estou a aprender a criar sites e agora vou gerenciar os meus repositórios!
 
- <a href="estudos-html/desafios/d010
+ <a href="desafios/d010
 /index.html">Desafio 10</a>
